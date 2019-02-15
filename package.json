@@ -1,0 +1,13 @@
+{
+  "name": "yarn",
+  "version": "C:\\Users\\денис\\Desktop\\node",
+  "description": "yarn init",
+  "main": "yarn",
+  "repository": "C:\\Users\\денис\\Desktop\\node",
+  "author": "bogdan <bogdanwww92@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "underscore": "^1.9.1"
+  }
+}
